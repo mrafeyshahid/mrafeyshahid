@@ -1,16 +1,34 @@
-## Hi there 👋
+# ⌁ building in silence.
 
-<!--
-**mrafeyshahid/mrafeyshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <samp>KEEP IT PRIVATE UNTIL YOU MAKE IT.</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  *No announcements. No explanations. Just execution.*
+
+  `dream` → `build` → `fail` → `refine` → `ship`
+
+  <br/>
+
+  **currently working on something.**
+
+  not ready to be seen.  
+  not meant to be explained.  
+  just give it time.
+
+  <br/>
+
+  `◉ status: lowkey`  
+  `⌘ mode: deep work`  
+  `↗ reveal: when it's real`
+
+  <br/>
+
+  ──────────────────────────
+
+  *Let the work stay private.*  
+  *Let the results speak.*
+
+</div>
